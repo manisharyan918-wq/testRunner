@@ -1,0 +1,9 @@
+python-dotenv
+openai
+playwright
+streamlit
+opencv-python-headless
+openpyxl
+pandas
+Pillow
+pandas

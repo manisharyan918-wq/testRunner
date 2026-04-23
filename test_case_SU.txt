@@ -1,0 +1,22 @@
+Summary: End-to-end form test
+Test Steps:
+Navigate to https://application.strayer.edu and accept if any modal appears of the page
+Verify that the URL contains "application.strayer.edu"
+Verify the Title of the window is "Strayer University Student Application"
+Enter "TestUser" in the First Name field
+Enter "Test" in Last name field
+Select "India" from country drop down
+Wait for the states to load and then Select "Maharashtra" from state drop down
+Enter "test address" in Street Address field
+Enter "1234" in Zip Code field
+Enter "TestCity" in City field
+Enter "463-643-6436" in phone number field
+Select "Work" from Phone Type drop down
+Enter "testuser@example.com" in the Email field
+Enter "testuser@example.com" in the Verify Email field
+Select "Text" from Preferred Contact Method drop down
+Enter "10/10/1999" in date of Birth field
+Check the checkbox saying "I do not have a US SSN"
+Select "United States" from Country of Citizenship drop down
+Click on the Next Button
+Verify that "Tell us about yourself" is displayed in Bold in Your Progress section
